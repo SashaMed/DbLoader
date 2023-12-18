@@ -1,0 +1,1 @@
+TRUNCATE TABLE B1Database.dbo.DataTable;
